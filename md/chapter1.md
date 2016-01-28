@@ -90,7 +90,7 @@ A table that presents a single categorical variable is known as a ***one-way tab
      SE         SEL         SES 
 52.00000000 15.33333333 32.66666667 
  ```
- #### Visualizing relationships - scatterplots
+#### Visualizing relationships - scatterplots
  A scatterplot is a diagram that visualizes a bivariate relationship
  ```
  > plot(x = usedcars$mileage, y = usedcars$price,
