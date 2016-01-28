@@ -36,7 +36,7 @@ The ```summary()``` function used for displaying several common numerical statis
 mean(usedcars$price)
 [1] 12961.93333
 ```
-```median``` is used for calculate the median for a vector of numbers:
+```median()``` is used for calculate the median for a vector of numbers:
 ```
 median(usedcars$price)
 [1] 13591.5
