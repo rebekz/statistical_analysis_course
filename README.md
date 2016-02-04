@@ -2,7 +2,7 @@
 
 ### Descriptive Analysis
 ---
-Dataset: [usedcars.csv](https://github.com/rebekz/rm-statistical-analysis/data/usedcars.csv) (from: https://github.com/stedy/Machine-Learning-with-R-datasets)
+Dataset: [usedcars.csv](https://github.com/rebekz/statistical_analysis_course/data/usedcars.csv) (from: https://github.com/stedy/Machine-Learning-with-R-datasets)
 ### Correlation and Regression
 ---
 ### T-Test
