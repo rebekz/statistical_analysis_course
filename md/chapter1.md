@@ -3,7 +3,7 @@
 
 #### Importing data
 ```
-usedcars <- read.csv("https://github.com/rebekz/statistical_analysis_course/blob/master/data/usedcars.csv")
+usedcars <- read.csv("https://raw.githubusercontent.com/rebekz/statistical_analysis_course/master/data/usedcars.csv")
 ```
 
 #### Exploring the structure of data
