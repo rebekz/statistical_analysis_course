@@ -74,7 +74,7 @@ Multiple R-squared:  0.6499,	Adjusted R-squared:  0.6475
 F-statistic: 274.7 on 1 and 148 DF,  p-value: < 2.2e-16
 ```
 #### Multivariate Linear Regression
-To do multivariate linear regression we only add more than 1 independent variable in the ```lm()``` function
+To do multivariate linear regression we used more than 1 independent variable in the ```lm()``` function
 ```
 (ins_model <- lm(charges ~ age + sex + bmi + children + smoker + region, data = insurance))
 Call:
