@@ -77,6 +77,19 @@ mean of the differences
 
 ```aov()``` is used for compute ANOVA. ```oneway.test()``` is used for oneway test.
 
+```
+Usage:
+
+aov(formula, data = NULL, projections = FALSE, qr = TRUE,
+    contrasts = NULL, ...)
+```
+```
+Usage:
+
+oneway.test(formula, data, subset, na.action, var.equal = FALSE)
+```
+
+
 #### One way Test
 
 ```
