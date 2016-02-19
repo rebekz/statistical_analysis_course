@@ -3,8 +3,8 @@
 
 ### Importing data
 ```
-insurance <- read.csv("https://raw.githubusercontent.com/rebekz/Machine-Learning-with-R-datasets/master/insurance_with_bmi.csv")
-drp_paired <- read.csv("https://raw.githubusercontent.com/rebekz/Machine-Learning-with-R-datasets/master/drp_paired.csv")
+insurance <- read.csv("https://raw.githubusercontent.com/rebekz/statistical_analysis_course/master/insurance_with_bmi.csv")
+drp_paired <- read.csv("https://raw.githubusercontent.com/rebekz/statistical_analysis_course/master/drp_paired.csv")
 ```
 ### T-test
 The ```t.test()``` function used for T-test
