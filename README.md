@@ -31,5 +31,10 @@ Course content:
 [Chapter 3](https://github.com/rebekz/statistical_analysis_course/blob/master/md/chapter3.md)
 
 ---
-### Chi Square
+### Chi Square, Fisher's Exact, McNemar's Test
 ---
+Datasets:
+
+* [carprefs.txt](https://raw.githubusercontent.com/rebekz/statistical_analysis_course/master/data/carprefs.txt) (from: http://www.statsci.org/data/oz/carprefs.html)
+
+Course content: [Chapter 4](https://github.com/rebekz/statistical_analysis_course/blob/master/md/chapter3.md)
