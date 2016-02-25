@@ -37,4 +37,4 @@ Datasets:
 
 * [carprefs.txt](https://raw.githubusercontent.com/rebekz/statistical_analysis_course/master/data/carprefs.txt) (from: http://www.statsci.org/data/oz/carprefs.html)
 
-Course content: [Chapter 4](https://github.com/rebekz/statistical_analysis_course/blob/master/md/chapter3.md)
+Course content: [Chapter 4](https://github.com/rebekz/statistical_analysis_course/blob/master/md/chapter4.md)
